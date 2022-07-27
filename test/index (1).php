@@ -2,7 +2,9 @@
 <html>
 <!-- HEAD Start -->
 <?php
-$title = "Evolv";
+
+echo "testing";
+
 include_once('include/head.php');
 ?>
 <!-- HEAD End -->
